@@ -1,6 +1,6 @@
 #+TITLE: Amanuensis Wake
 #+DATE: 2026-05-04
 
-* Welcome
-
-This site is under construction.
+Amanuensis Wake is written by Lander M. Kerbey. A collection of
+fiction, poetry, essay, and things that may resist
+categorization. Always iterating.
