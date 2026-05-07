@@ -2,6 +2,7 @@
 #+CREATED: 2024-01-09
 #+LAST_MODIFIED: 2024-01-09
 
+#+BEGIN_VERSE
 cold rain erasing snowfall
 in such a season we made our ties
 we never had stillness
@@ -13,3 +14,4 @@ the world held its breath
 and we could not hold in time
 the world breathed out
 and i breathed you out in time
+#+END_VERSE
