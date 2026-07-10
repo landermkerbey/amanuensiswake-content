@@ -4,6 +4,7 @@
 #+LEDE: Untitled poem
 #+FILETAGS: :poetry:
 
+#+VERSE
 this, then, is how i will love you:
 with cathedrals like forests, forests like cathedrals
 with violent birth of light from dark on a Caravaggio
@@ -15,3 +16,4 @@ with the memory of your lips upon mine
                    or my hands upon your face
 	        soft and soft and soft
 i will whisper to the part of you that has taken our shape
+#+END_VERSE
